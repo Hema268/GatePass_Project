@@ -1,8 +1,3 @@
-# GatePass_Project
-Here’s a **comprehensive project description** for your Gatepass and Bill Flow Monitoring System based on all the details you’ve shared:
-
----
-
 # Gatepass and Bill Flow Monitoring System
 
 The **Gatepass and Bill Flow Monitoring System** is a MERN stack web application designed to streamline and digitize the management of gatepass slips for various scenarios, including visitors, admissions, and material flow (in and out). This system enables efficient record-keeping, secure access management, and real-time monitoring, with features tailored for both admin and super admin roles.
